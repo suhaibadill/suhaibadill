@@ -27,6 +27,9 @@
 <a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+![java](https://img.shields.io/badge/-java%20-05122A?style=flat&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20-05122A?style=flat&logo=Spring)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot%20-05122A?style=flat&logo=SpringBoot)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -40,8 +43,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20-05122A?style=flat&logo=Spring)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />

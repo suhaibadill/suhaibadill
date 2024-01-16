@@ -27,9 +27,10 @@
 <a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![java](https://img.shields.io/badge/-java%20-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20-05122A?style=flat&logo=Spring)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot%20-05122A?style=flat&logo=SpringBoot)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Java, Spring and Spring Boot, Data Bases, JavaScript and React.js or anything related to web development.
+- 💬 Ask me about my experience with C++, C#, .Net Framework, ASP.NET (MVC), ASP.NET Core, SQL Server, JavaScript and Type Script, Angular.js ,React.js, MongoDB and anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 

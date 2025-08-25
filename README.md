@@ -24,8 +24,13 @@
 <a href="https://t.me/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
-<a href="https://twitter.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/suhaibadill" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/suhaibadill" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

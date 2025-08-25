@@ -44,4 +44,4 @@
 <br>
 <a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
-</a> عدله لي بطريقه افضل واجعل رابط لينكدان و تويتر فيهم ايكون و اضف gitub status
+</a> 

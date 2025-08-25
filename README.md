@@ -28,6 +28,13 @@
 <a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=radical" height="160" />
+</p>
+
+
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -45,4 +52,4 @@
 <br>
 <a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
-</a> عدله لي بطريقه افضل واجعل رابط لينكدان و تويتر فيهم ايكون و اضف gitub status
+</a> 

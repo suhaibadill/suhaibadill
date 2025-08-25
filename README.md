@@ -40,9 +40,11 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=dark" height="200" /><br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=dark" height="200" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="200" />
 </div>
+
+<br><br><br>
 
 <!-- Top Languages -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibadill&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
@@ -50,7 +52,6 @@
 <br><br>
 
 <!-- Profile Views -->
-<a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
-</a>
+<a href="http
+
 

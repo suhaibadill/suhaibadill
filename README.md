@@ -39,10 +39,11 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=dark" height="160" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="160" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=dark" height="200" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="200" />
+</div>
+
 
 
 

@@ -44,8 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="200" />
 </div>
 
-<br><br>
-
 <!-- Top Languages -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibadill&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 

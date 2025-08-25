@@ -44,6 +44,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="200" />
 </div>
 
+### 🏆 Featured Projects
+<div align="left">
+- [Quiz Game in C++](https://github.com/suhaibadill/quiz-game) 🎮  
+- [Blog API with .NET](https://github.com/suhaibadill/blog-api) 📝  
+</div>
+
+---
+
+### 🐍 Contribution Graph
+<div align="left">
+![snake gif](https://github.com/suhaibadill/suhaibadill/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+### ✨ Profile Views Badge
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge">
+  </a>
+</div>
+
+
 <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br> <a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge"> <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge"> </a>

@@ -27,6 +27,7 @@
   <a href="https://t.me/suhaibadill" target="_blank">
     <img src="https://img.shields.io/badge/-Suhaib%20Adil-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
+  
   <a href="https://twitter.com/suhaibadill" target="_blank">
     <img src="https://img.shields.io/badge/-Suhaib%20Adil-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>

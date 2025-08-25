@@ -20,12 +20,21 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <a href="https://linkedin.com/in/suhaibadill" target="_blank">
+    <img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/suhaibadill" target="_blank">
+    <img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/suhaibadill" target="_blank">
+    <img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/suhaibadill" target="_blank">
+    <img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
-
-<a href="https://twitter.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
 
 

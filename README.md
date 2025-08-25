@@ -28,12 +28,6 @@
 <a href="https://instagram.com/suhaibadill" target="_blank"><img src="https://img.shields.io/badge/-suhaib%20adill-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=radical" height="160" />
-</p>
-
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -44,6 +38,11 @@
 ![](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=radical" height="160" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=radical" height="160" />
+</p>
 
 
 

@@ -13,7 +13,7 @@
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my journey in Back-End development with .NET.  
-  I have experience with C++, .NET Framework, SQL Server, JavaScript, and the core concepts of web development.
+  I have experience with .NET Framework, SQL Server, JavaScript, and the core concepts of web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
   
 

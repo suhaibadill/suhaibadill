@@ -21,53 +21,23 @@
 
   
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/suhaib.adel.617850/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/suhaibadill) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suhaibadill) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/suhaibadill) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhaibadill11@gmail.com) 
 
-### Connect with Me :
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <a href="https://linkedin.com/in/suhaibadill" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://t.me/suhaibadill" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <br>
-  <a href="https://twitter.com/suhaibadill" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://instagram.com/suhaibadill" target="_blank" style="text-decoration: none; transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
 
-### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
-![](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suhaibadill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=suhaibadill&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibadill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=suhaibadill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibadill&show_icons=true&theme=dark" height="200" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibadill&theme=dark" height="200" />
-</div>
-
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br> <a href="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge"> <img src="https://komarev.com/ghpvc/?username=suhaibadill&style=for-the-badge"> </a>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

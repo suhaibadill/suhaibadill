@@ -20,14 +20,7 @@ class SoftwareEngineer {
     this.name = "Suhaib Adil";
     this.role = "Front-End Engineer";
     this.location = "Saudi Arabia 🇸🇦";
-    this.languagesSpoken = ["Arabic", "English"];
-    this.technologies = [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Tailwind CSS",
-      "TypeScript",
-      "React JS"
+    this.technologies = [ "HTML","CSS","JavaScript","Tailwind CSS"
     ];
   }
 

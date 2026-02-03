@@ -14,9 +14,13 @@
 
 </div>
 
-<div align="center">
-```javascript
+</div> 
 
+---
+
+### 👨‍💻 About Me
+
+```javascript
 class SoftwareEngineer {
   constructor() {
     this.name = "Suhaib Adil";
@@ -33,8 +37,6 @@ const me = new SoftwareEngineer();
 me.sayHi();
 
 ```
-</div>
-
 
 
 

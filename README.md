@@ -11,7 +11,14 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Software+Engineer;Frontend+Developer" alt="Typing SVG" />
+</br>
 
+<div align="center">
+ <a href="#">portfolio</a> | 
+  <a href="https://www.linkedin.com/in/suhaib/">linkedin</a> | 
+  <a href="https://twitter.com/suhaib">twitter</a>
+ 
+</div>
 </div>
 
 </div> 
@@ -53,19 +60,4 @@ me.sayHi();
 
 ---
 
----
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&"  />
-</div>
-
-<br />
-
-<samp align="center">
-<div align="center">
- <a href="https://www.ql3.dev/">portfolio</a> | 
-  <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
-  <a href="https://twitter.com/husamql3">twitter</a>
- 
-</div>
-</samp>

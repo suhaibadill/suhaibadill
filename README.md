@@ -56,8 +56,16 @@ me.sayHi();
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaibadill) </br>
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suhaibadill) </br>
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&"  />
 </div>
+
+<br />
+
+<samp align="center">
+<div align="center">
+ <a href="https://www.ql3.dev/">portfolio</a> | 
+  <a href="https://www.linkedin.com/in/husamql3/">linkedin</a> | 
+  <a href="https://twitter.com/husamql3">twitter</a>
+ 
+</div>
+</samp>

@@ -20,15 +20,12 @@ class SoftwareEngineer {
     this.name = "Suhaib Adil";
     this.role = "Front-End Engineer";
     this.location = "Saudi Arabia 🇸🇦";
-    this.technologies = [ "HTML","CSS","JavaScript","Tailwind CSS"
-    ];
-  }
+    this.technologies = [ "HTML","CSS","JavaScript","Tailwind CSS ];
+}
 
-  sayHi() {
-    console.log(
-      "Thanks for dropping by, hope you find some of my work interesting."
-    );
-  }
+ sayHi() {
+   console.log("Thanks for dropping by, hope you find some of my work interesting.");
+ }
 }
 
 const me = new SoftwareEngineer();

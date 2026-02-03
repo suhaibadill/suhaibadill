@@ -14,6 +14,7 @@
 
 </div>
 
+<div align="center">
 ```javascript
 
 class SoftwareEngineer {
@@ -31,8 +32,8 @@ class SoftwareEngineer {
 const me = new SoftwareEngineer();
 me.sayHi();
 
-
 ```
+</div>
 
 
 

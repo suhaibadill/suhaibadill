@@ -14,7 +14,34 @@
 
 </div>
 
-</div>
+```javascript
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Suhaib Adil";
+    this.role = "Front-End Engineer";
+    this.location = "Saudi Arabia 🇸🇦";
+    this.languagesSpoken = ["Arabic", "English"];
+    this.technologies = [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS",
+      "TypeScript",
+      "React JS"
+    ];
+  }
+
+  sayHi() {
+    console.log(
+      "Thanks for dropping by, hope you find some of my work interesting."
+    );
+  }
+}
+
+const me = new SoftwareEngineer();
+me.sayHi();
+```
+
 
 
 

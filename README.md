@@ -32,7 +32,7 @@ class SoftwareEngineer {
   constructor() {
     this.name = "Suhaib Adil";
     this.role = "Front-End Engineer";
-    this.location = "Saudi Arabia 🇸🇦";
+    this.location = "Saudi Arabia";
     this.languagesSpoken = ["Arabic","English"];
   }
 
